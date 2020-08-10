@@ -1,7 +1,7 @@
 ### Hi, Nice to meet you! 👋 I'm Tim - [TimothyFHinds][website] 
 
 ## I am a Developer and Programmer and Gamer
-- 🔭 I’m currently working on creating Flask web apps[website]!
+- 🔭 I’m currently working on web development projects!
 - 🌱 I’m learning each day 
 - 👯 I’m looking to collaborate with other developers and creators
 - 🥅 2020 Goals: Develop more web-based projects
